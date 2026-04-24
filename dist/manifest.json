@@ -1,0 +1,19 @@
+{
+  "name": "Trade Log Pro",
+  "short_name": "TradeLog",
+  "description": "Premium trading journal",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05120e",
+  "theme_color": "#05120e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"]
+}
